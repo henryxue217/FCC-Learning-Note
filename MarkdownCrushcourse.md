@@ -17,7 +17,7 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
 * \#####: `##### Heading size 5`
   ##### Heading 5
 * \######: `###### Heading size 6`
-  ## Heading 6 <a name="heading-6"></a>
+  ###### Heading 6 
 * **Blod**: `**Bold**`
 * *Italics*: `*Italics*`
 * ***Blod and Italics***: `***Bold and Italics***`
