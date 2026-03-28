@@ -1,5 +1,5 @@
 # Markdown Crash Course and Checksheet
-
+: [Heading 6](#heading-6)
 ## Source:
 Yotube Video: [Learn Mardown In 22 Minitues](https://www.youtube.com/watch?v=_PPWWRV6gbA&t)  
 Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/)
@@ -17,7 +17,7 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
 * \#####: `##### Heading size 5`
   ##### Heading 5
 * \######: `###### Heading size 6`
-  ###### Heading 6
+  ## Heading 6 <a name="heading-6"></a>
 * **Blod**: `**Bold**`
 * *Italics*: `*Italics*`
 * ***Blod and Italics***: `***Bold and Italics***`
@@ -39,5 +39,6 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
        console.log("Javascript");
      ``` 
 * \[This is a local link\]\(\/localpage\)
-   [Link to README.md](/README.MD)
+    * \[Link to README.md\]\(\/README.md\)  
+      [Link to README.md](/README.md)
 * 
