@@ -26,3 +26,18 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
   * <mark>highlight</mark>: `<mark>highlight</mark>`
 * ^superscript^: (does not work in github)
   * 2<sup>2</sup>=4: `2<sup>2</sup>=4`
+* \~suberscript\~: (does not work in github)
+  * H<sub>2</sub>O: `H<sub>2</sub>O`
+* \`single line code\` 
+* \```Multi-line code\```  
+  * \```JS  
+     console.log("Javascript");  
+     console.log("Javascript");  
+    \```
+     ```JS
+       console.log("Javascript");
+       console.log("Javascript");
+     ``` 
+* \[This is a local link\]\(\/localpage\)
+   [Link to README.md](/README.MD)
+* 
