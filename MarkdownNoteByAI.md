@@ -6,7 +6,7 @@ Welcome! This guide is designed to help you master Markdown (a lightweight marku
 
 If you only learn these four things, you can write 80% of all GitHub documentation.
 
-1. Headings
+1. ## Headings
 
 Use # followed by a space. The more # symbols, the smaller the heading.
 
