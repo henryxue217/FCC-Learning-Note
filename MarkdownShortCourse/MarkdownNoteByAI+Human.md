@@ -6,6 +6,11 @@ Welcome! This guide is designed to help you master Markdown (a lightweight marku
 
 If you only learn these four things, you can write 80% of all GitHub documentation.
 
+Link on the page: 
+    * [Heading](#heading)
+    * [Text Style](#text-styling) 
+    * [Lists](#lists)
+
 1. ## Headings
 
     Use # followed by a space. The more # symbols, the smaller the heading.
@@ -22,7 +27,7 @@ If you only learn these four things, you can write 80% of all GitHub documentati
     
     ###### Heading 6 (HTML `<h6>`) `######`
 
-2. Text Styling
+2. ## Text Styling
 
 Bold: **Text**
 
@@ -32,7 +37,7 @@ Bold & Italic: ***Text***
 
 ~~Strikethrough~~: ~~Text~~
 
-3. Lists
+3. ## Lists
 
 Unordered List: Use +, -, or *
 
