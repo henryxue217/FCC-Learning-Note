@@ -5,7 +5,8 @@ Yotube Video: [Learn Mardown In 22 Minitues](https://www.youtube.com/watch?v=_PP
 Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/)
 
 ### Markdown CheetSheet - All you need  
-* `  `: two space means new line br as `<br>` in html 
+* `  `: two space means new line br as `<br>` in html
+  * space at the beginning of of line and the end of line matters. 
 * \#: `# Heading size 1`
   # Heading 1
 * \##: `## Heading size 2`
@@ -64,4 +65,48 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
    ___
 * order list
   ```md
+    1. Item 1
+    2. Item 2
+    3. Item 3
   ```
+    1. Item 1
+    2. Item 2
+    3. Item 3
+  * unorder list: ethier one of these symbol works 
+    ```md
+      -
+      *
+      +
+    ```
+      - item 1
+      - item 2
+      - item 3
+  * nested unorder or ordere list:
+    ```md
+        - item 1
+          - item 1-1
+          - item 1-2
+            1. item 1-1.1
+            2. item 1-2.2
+        - item 2
+    ```
+      - item 1
+          - item 1-1
+          - item 1-2
+            1. item 1-1.1
+            2. item 1-2.2
+       - item 2
+    * creat a table
+      ```md
+        |Header1| Header2 |
+        |------- | ------|
+        | Your name| My Name|
+      ```
+       |Header1| Header2 |
+        |------- | ------|
+        | Your name| My Name|
+        * `|:---|` : make the col left align
+        * `|----:|`: make the col right align
+        * `|:---:|`: make the col center align
+    * [ ] | [x]: check box 
+         
