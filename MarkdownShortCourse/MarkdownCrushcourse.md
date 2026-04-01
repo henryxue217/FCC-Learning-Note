@@ -45,7 +45,8 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
 * \[This is a local link\]\(\/localpage\)
     * \[Link to README.md\]\(\/README.md\)  
       [Link to README.md](/README.md)
-      (https:\\google.com)
+    * Use the link name itself `<https:\\google.com>`  
+      <https:\\google.com>
 * \!\[image\]\(image link\): link image  
    * `![freecodelogo](https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_large.png)`
     ![freecodelogo](https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_large.png)
