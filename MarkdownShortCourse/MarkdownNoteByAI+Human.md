@@ -8,13 +8,19 @@ If you only learn these four things, you can write 80% of all GitHub documentati
 
 1. ## Headings
 
-Use # followed by a space. The more # symbols, the smaller the heading.
-
-# Heading 1 (HTML <h1>)
-
-## Heading 2 (HTML <h2>)
-
-### Heading 3 (HTML <h3>)
+    Use # followed by a space. The more # symbols, the smaller the heading.
+    
+    # Heading 1 (HTML `<h1>`) `#`
+    
+    ## Heading 2 (HTML `<h2>`) `##`
+    
+    ### Heading 3 (HTML `<h3>`) `###`
+    
+    #### Heading 4 (HTML `<h4>`) `####`
+    
+    ##### Heading 5 (HTML `<h5>`) `#####`
+    
+    ###### Heading 6 (HTML `<h6>`) `######`
 
 2. Text Styling
 
