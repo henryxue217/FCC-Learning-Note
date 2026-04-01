@@ -1,5 +1,8 @@
 # Markdown Crash Course and Checksheet  
-  link : [Heading 6](#heading-6)
+  link on the page : `LinkName](#Heading-name)` if there are spaces in btween heading name, you must use - to replace space. 
+  `[Heading 6](#heading-6)`
+  [Heading 6](#heading-6)
+  
 ## Source:
 Yotube Video: [Learn Mardown In 22 Minitues](https://www.youtube.com/watch?v=_PPWWRV6gbA&t)  
 Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/)
@@ -42,9 +45,11 @@ Blog: [Markdown Crash Course Blog](https://blog.webdevsimplified.com/2023-06/mar
 * \[This is a local link\]\(\/localpage\)
     * \[Link to README.md\]\(\/README.md\)  
       [Link to README.md](/README.md)
+      (https:\\google.com)
 * \!\[image\]\(image link\): link image  
    * `![freecodelogo](https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_large.png)`
     ![freecodelogo](https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_large.png)
+
 * block quote syntax
   * ```MD
     > a
